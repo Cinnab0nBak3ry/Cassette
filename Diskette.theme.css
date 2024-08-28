@@ -38,27 +38,27 @@ Version notes:
 /* -- ▼▼▼ DO NOT TOUCH ▼▼▼ -------------------------------------------------------------------------------------------------------------------- */ 
 
 /* 🚫🚫🚫 Base Theme - Do NOT Eject - Literally notheme 🚫🚫🚫 */
-@import url('https://Cinnab0nBak3ry/Cassette/User/Vozy/Documents/source files/base.css');
+@import url('https://Cinnab0nBak3ry.github.io/Cassette/User/Vozy/Documents/source files/base.css');
 
 /*  🔌🔌🔌 Cassette Plugin - Do NOT Eject 🔌🔌🔌 */
-@import url('https://Cinnab0nBak3ry/Cassette/User/Vozy/Documents/source files/everything else/selectors.css');
+@import url('https://Cinnab0nBak3ry.github.io/Cassette/User/Vozy/Documents/source files/everything else/selectors.css');
 
 /* -- ▲▲▲ DO NOT TOUCH ▲▲▲ -------------------------------------------------------------------------------------------------------------------- */
 
 /* 🖌🖌🖌 Color Scheme 🖌🖌🖌 */
-@import url('https://Cinnab0nBak3ry/Cassette/User/Vozy/Documents/goodies/Color Schemes/Default.css');
+@import url('https://Cinnab0nBak3ry.github.io/Cassette/User/Vozy/Documents/goodies/Color Schemes/Default.css');
 
 /* [][][][][][] Fancy Window Title Headers [][][][][][] */
-@import url('https://Cinnab0nBak3ry/Cassette/User/Vozy/Documents/source files/everything else/border headers.css');
+@import url('https://Cinnab0nBak3ry.github.io/Cassette/User/Vozy/Documents/source files/everything else/border headers.css');
 
 /* 3-2-1-c-b-a Icons a-b-c-1-2-3 */
-@import url('https://Cinnab0nBak3ry/Cassette/User/Vozy/Documents/goodies/Icons/Clarity.css');
+@import url('https://Cinnab0nBak3ry.github.io/Cassette/User/Vozy/Documents/goodies/Icons/Clarity.css');
 
 /* x-x-x-x-x Font x-x-x-x-x */
-@import url('https://Cinnab0nBak3ry/Cassette/User/Vozy/Documents/goodies/Fonts/DM Mono.css');
+@import url('https://Cinnab0nBak3ry.github.io/Cassette/User/Vozy/Documents/goodies/Fonts/DM Mono.css');
 
 /* - [] x WinButtons - [] x */
-@import url('https://Cinnab0nBak3ry/Cassette/User/Vozy/Documents/source files/everything else/winbuttons.css');
+@import url('https://Cinnab0nBak3ry.github.io/Cassette/User/Vozy/Documents/source files/everything else/winbuttons.css');
 
 /* o𝝅o𝝅o Radial Status o𝝅o𝝅o */
 @import url('https://slippinggittys-discord-themes.github.io/Notheme/folder/folder%20of%20components/file%20with%20radial%20status.css');
@@ -68,4 +68,3 @@ Version notes:
   --pad: 30px;
   --showBorder: hidden; /* If your Color Scheme supports this feautre *and* you're on Windows, erase "hidden" */
 }
-
