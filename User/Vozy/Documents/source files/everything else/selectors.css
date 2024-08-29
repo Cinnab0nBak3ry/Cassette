@@ -43,6 +43,9 @@
 .scroller_c47fa9 {
    border-right: transparent;
 }
+.channelAppLauncher_df39bd {
+  display: none;
+}
 
 /* Chat Window */
 .scroller_e2e187:hover {
